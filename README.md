@@ -34,6 +34,7 @@ This repository was created to document my JavaScript learning journey, focusing
 ```bash
 javascript-studies/
 │
+├── algorithms/            # Logic and problem solving
 ├── mini-projects/         # pratical mini projects
 └── README.md
 ```
